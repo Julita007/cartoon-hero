@@ -1,0 +1,32 @@
+	body {
+		background-color:#12475f;
+	}
+		h1{
+		font-size: 30 px;
+		color: salmon;
+	}
+
+	h2{
+		font-size: 80px; 
+		color:lila;
+	}
+	.big{
+		font-size:80px;
+		color:green;
+
+	}
+
+	.uppercase{
+		text-transform: uppercase;
+	}
+
+		.big.uppercase{
+			color:navy;
+	}
+
+		span{
+			font-size:50px; 
+			color:violet;
+		}
+		
+	</style>
